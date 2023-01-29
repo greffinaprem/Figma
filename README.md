@@ -30,7 +30,9 @@ Publish the website in the given URL.
 
 ## DESIGN TOOL:
 Figma
-## Code/* Home page */
+## Code
+
+/* Home page */
 box-sizing: border-box;
 position: relative;
 width: 360px;
